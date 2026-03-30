@@ -5,6 +5,8 @@ A production-ready **Google Apps Script web app** for managing ad creatives acro
 Upload, organize, review, approve, and track ad creatives — all backed by a Google Sheet and Google Drive, with optional **AI-powered naming** via the Claude API.
 
 ---
+# Other Web Apps:
+Business Hiring Web App: https://github.com/slshivamlohia-png/Business-Hiring-Web-App-Ready-to-Use
 
 ## Features
 
