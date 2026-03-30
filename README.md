@@ -1,4 +1,4 @@
-# Neodrift Creative Manager
+# Business Creative/Media Manager Web App
 
 A production-ready **Google Apps Script web app** for managing ad creatives across Google Ads, Meta Ads, Amazon Ads, and other platforms. Built for D2C brands running multi-platform advertising campaigns.
 
@@ -256,11 +256,3 @@ The URL stays the same — users just refresh the page.
 ## License
 
 MIT — Free to use, modify, and distribute.
-
----
-
-## Credits
-
-Built for [NEODRIFT](https://neodrift.in) — Premium car and bike accessories on Amazon India.
-
-Part of the [Ready-To-Use Business Web Apps](https://github.com/your-username/Ready-To-Use-Business-Web-Apps) collection.
